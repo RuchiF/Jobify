@@ -50,36 +50,6 @@ const Modal = () => {
             </svg>
             All Jobs
           </Link>
-          <Link to="/dashboard/stats" className="nav-link">
-            <svg
-              stroke="currentColor"
-              fill="currentColor"
-              stroke-width="0"
-              viewBox="0 0 512 512"
-              height="1.25em"
-              width="1.25em"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              <path d="M496 496H16V16h32v448h448v32z"></path>
-              <path d="M192 432H80V208h112zm144 0H224V160h112zm143.64 0h-112V96h112z"></path>
-            </svg>
-            Stats
-          </Link>
-          <Link to="/dashboard/profile" className="nav-link">
-            <svg
-              stroke="currentColor"
-              fill="currentColor"
-              stroke-width="0"
-              version="1.1"
-              viewBox="0 0 16 16"
-              height="1em"
-              width="1em"
-              xmlns="http://www.w3.org/2000/svg"
-            >
-              <path d="M13.5 0h-12c-0.825 0-1.5 0.675-1.5 1.5v13c0 0.825 0.675 1.5 1.5 1.5h12c0.825 0 1.5-0.675 1.5-1.5v-13c0-0.825-0.675-1.5-1.5-1.5zM13 14h-11v-12h11v12zM4 9h7v1h-7zM4 11h7v1h-7zM5 4.5c0-0.828 0.672-1.5 1.5-1.5s1.5 0.672 1.5 1.5c0 0.828-0.672 1.5-1.5 1.5s-1.5-0.672-1.5-1.5zM7.5 6h-2c-0.825 0-1.5 0.45-1.5 1v1h5v-1c0-0.55-0.675-1-1.5-1z"></path>
-            </svg>
-            Profile
-          </Link>
         </div>
       </div>
     </div>
